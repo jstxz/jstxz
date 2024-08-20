@@ -16,5 +16,10 @@ You can click the Preview link to take a look at your changes.
 - sempre buscando aprender mais cada dia q passa
 - tamo junto é nois
 
+https://github.com/jstxz/jstxz.github.io
+
+https://jstxz.github.io
+
+
  
 jstxz.
