@@ -11,7 +11,7 @@
 jstxz/jstxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- 👋 ou eu so @jstxz
+- 👋 oi eu so @jstxz
 - aprendendo ainda as coisa
 - sempre buscando aprender mais cada dia q passa
 - tamo junto é nois
